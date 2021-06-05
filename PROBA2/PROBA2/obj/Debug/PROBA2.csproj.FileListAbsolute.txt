@@ -1,0 +1,10 @@
+D:\Skola\PROBA2\PROBA2\bin\Debug\PROBA2.exe.config
+D:\Skola\PROBA2\PROBA2\bin\Debug\PROBA2.exe
+D:\Skola\PROBA2\PROBA2\bin\Debug\PROBA2.pdb
+D:\Skola\PROBA2\PROBA2\obj\Debug\PROBA2.csprojAssemblyReference.cache
+D:\Skola\PROBA2\PROBA2\obj\Debug\PROBA2.Properties.Resources.resources
+D:\Skola\PROBA2\PROBA2\obj\Debug\PROBA2.csproj.GenerateResource.cache
+D:\Skola\PROBA2\PROBA2\obj\Debug\PROBA2.csproj.CoreCompileInputs.cache
+D:\Skola\PROBA2\PROBA2\obj\Debug\PROBA2.exe
+D:\Skola\PROBA2\PROBA2\obj\Debug\PROBA2.pdb
+D:\Skola\PROBA2\PROBA2\obj\Debug\PROBA2.Form1.resources
